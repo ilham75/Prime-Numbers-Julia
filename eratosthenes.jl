@@ -28,7 +28,7 @@ const NUMBERS_PER_LINE = 20
 """
     eratosthenes(ch, n)
 
-Generates a sequence of prime numbers using the sieve of Eratosthenes
+Generate a sequence of prime numbers using the sieve of Eratosthenes
 algorithm. It is based on https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes.
 
 The sequence consists of all primes in the range 2..max prime inclusive where
